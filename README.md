@@ -1,8 +1,3 @@
-# Sudoku_Solver
-
-Here's a README file for the provided Sudoku solver code:
-
----
 
 # Sudoku Solver
 
